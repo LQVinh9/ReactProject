@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "173e955a-c81b-4881-bfa9-99a68947a8ba": {
+      "ProjectGuid": "173e955a-c81b-4881-bfa9-99a68947a8ba",
+      "DisplayName": "TestReact",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
